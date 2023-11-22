@@ -1,0 +1,45 @@
+
+/* NAKED HTML ELEMENTS */
+body {
+    background-color: grey;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 100%;
+}
+
+li {
+    max-width: 25%;
+    min-width: 25%;
+    text-align: center;
+}
+
+
+ /* CONTENT */
+.content{
+    background-color: aliceblue;
+    max-width: 80%;
+    margin: 3% 20%;
+    padding: 3%;
+}
+
+
+/* NAVIGATION LINKS */
+a.navlink {
+    text-decoration: none;
+    color: black;
+}
+
+/* BLOG */
+.blog {
+    max-width: 80%;
+    margin: 10%
+}
